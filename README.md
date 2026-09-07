@@ -109,5 +109,7 @@ The DSN-VC288 module has two separate wiring harnesses:
 ---
 
 ## Authors & Contributors
-
+- **Prof. Parthasarthi Sadhasivam** (Mentor)— Department of Mechatronics, Thiagarajar College of Engineering (TCE)
 - **S. Manibalagan** — Department of Mechatronics, Thiagarajar College of Engineering (TCE)
+- **A Guruprakash** — Department of Mechatronics, Thiagarajar College of Engineering (TCE)
+- **P. Kavitharun** — Department of Mechatronics, Thiagarajar College of Engineering (TCE)
